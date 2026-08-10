@@ -5,7 +5,5 @@
 </div>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31cveymaioxcecr4umgxaocfrbpa" target="_blank">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=121212&border_color=53b14f" alt="Spotify Now Playing" />
-  </a>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cveymaioxcecr4umgxaocfrbpa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cveymaioxcecr4umgxaocfrbpa&redirect=true)
 </div>
