@@ -10,7 +10,7 @@
 <a href="https://roblox.com/users/242098/profile"><img src="https://img.shields.io/badge/ROBLOX-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" /></a>
 <br>
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31cveymaioxcecr4umgxaocfrbpa&redirect=true" target="_blank">
+<a href="https://guns.lol/eff" target="_blank">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cveymaioxcecr4umgxaocfrbpa&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=FFFFFF&bar_color_cover=true" alt="Spotify" />
 </a>
 <br>
