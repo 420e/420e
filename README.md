@@ -32,7 +32,7 @@
 </div>
 <br>
 <div align="center">
-<a href="https://guns.lol/eff" target="_blank">
+<a href="https://github.com/420e" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=420e&label=VIEWS&color=000000&style=flat-square" alt="Views" />
 </a>
 </div>
