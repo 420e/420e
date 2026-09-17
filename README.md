@@ -30,27 +30,7 @@
 <img src="https://img.shields.io/badge/kali-000000?style=flat-square&logo=kalilinux&logoColor=white" />
 
 </div>
-
-```typescript
-const cody = {
-  role:     "backend engineer // security researcher",
-  location: "toronto, canada",
-
-  focus: [
-    "building high-performance backend architecture",
-    "offensive security and infrastructure hardening",
-    "large-scale data correlation and enrichment",
-  ],
-
-  stack: {
-    languages: ["rust", "go", "python"],
-    backend:   ["graphql", "grpc", "postgresql"],
-    cloud:     ["docker", "kubernetes", "aws", "linux"],
-  },
-
-  principle: "reliable · secure · scalable"
-};
-```
+<br>
 <div align="center">
 <a href="https://guns.lol/eff" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=420e&label=VIEWS&color=000000&style=flat-square" alt="Views" />
